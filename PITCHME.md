@@ -214,12 +214,11 @@
 + [contest 概要](https://www.quantopian.com/contest)
 + [contest 概要（翻訳）](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
 + [Quantopian Risk Model](https://www.quantopian.com/papers/risk)
-
++ [Get Started with the Quantopian Contest - YouTube](https://www.youtube.com/watch?v=DsIyoeqkjMU)
++ [Quantopian Contest に参加してみる｜しんせいたろう｜note](https://note.mu/shinseitaro/n/nc229144d5f76)
 
 ---
 
 ## おしらせ
 
 + [Tokyo Quantopian User Group Vol.06 Factor Model - connpass](https://quantopian-tokyo.connpass.com/event/105587/)
-
-+ [Quantopian Contest に参加してみる｜しんせいたろう｜note](https://note.mu/shinseitaro/n/nc229144d5f76)
