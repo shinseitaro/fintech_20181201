@@ -12,3 +12,6 @@ slide-number: true
 
 #コードのシンタックスハイライトの設定
 highlight : monokai
+
+# レイアウト
+layout : top-left
