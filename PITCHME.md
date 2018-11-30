@@ -24,6 +24,8 @@
 
 ---
 
+## 応募条件
+
 @snap[west span-50]
 ### **cross-sectional, long-short equity strategies**
 @snapend
