@@ -29,27 +29,31 @@
 
 ## コンテストのカギ
 
-`predictive ranking scheme` を見つけること
+@snap[midpoint]
+**predictive ranking scheme** を見つけること
+@snapend
 
 ---
 
+<div style="text-align: center;">
 ![](https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/8632738/picture_pc_7f1963d4cd0475fbb1d0f339243e852c.jpg)
+</div>
 
---- 
+---
 
 ## アルゴリズムの条件
 
-+ Postive Return 
-+ レバレッジは0.8〜1.1倍以内 
-+ 特定の銘柄に偏っていない 
-+ low beta to SPY 
-+ 全投資資金とポートフォリオ価値の割合規制 
-+ 流動性が十分ある銘柄 
-+ セクター分散 
-+ スタイルファクターに対して低リスク 
++ Postive Return
++ レバレッジは0.8〜1.1倍以内
++ 特定の銘柄に偏っていない
++ low beta to SPY
++ 全投資資金とポートフォリオ価値の割合規制
++ 流動性が十分ある銘柄
++ セクター分散
++ スタイルファクターに対して低リスク
 + Optimize APIを使って注文
 
---- 
+---
 
 ## 今回の目標
 
@@ -57,7 +61,7 @@
 
 （いい成績なんてムリ！）
 
---- 
+---
 
 ## それなりのalphaを見つける
 
@@ -67,20 +71,24 @@
 
 ---
 
+<div style="text-align: center;">
 ![](https://qiita-image-store.s3.amazonaws.com/0/14019/ce087827-39c8-5ee6-994c-7a98174d23d5.png)
+</div>
 
 ---
 
-## Research 
+## Research
 
-+ Alphalens 
++ Alphalens
 + [オープンソース](https://github.com/quantopian/alphalens)
 + `performance analysis of predictive (alpha) stock factors`
 + Quantopian Research上でファクターを分析
 
---- 
+---
 
+<div style="text-align: center;">
 ![](https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/8710762/picture_pc_e7423b3b99e651914b56848180b4efeb.jpg)
+</div>
 
 ---
 
@@ -91,7 +99,7 @@
 
 ---
 
-## Algorithm 
+## Algorithm
 
 + 条件を満たすようなアルゴリズムを1から書くのはかなり厳しい（関数の使い方とか）
 + テンプレがある@fa[heart]
@@ -101,19 +109,21 @@
 
 ---
 
-## backtest 
+## backtest
 
+<div style="text-align: center;">
 ![2018-11-28_005.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/07f74b8b-34a3-6ddc-ab86-10d2a913617d.jpeg)
-
+</div>
 ---
 
+<div style="text-align: center;">
 ![Screenshot from 2018-11-28 18-52-44.png](https://qiita-image-store.s3.amazonaws.com/0/14019/a29fe5ca-f916-e7a7-e10b-66928360bf53.png)
-
+</div>
 ---
 
 + Short Term Reversal が不合格
 + `The short-term reversal factor captures the difference in returns between stocks with strong recent losses theoretically primed to reverse (recent loser stocks) and stocks with strong recent gains theoretically primed to reverse (recent winner stocks) in a short time period.`
- 
+
 ---
 
 @snap[midpoint]
@@ -144,16 +154,17 @@
 
 ## オールグリーン
 
+<div style="text-align: center;"></div>
 ![2018-11-29_14.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/fc54f46e-655f-bf74-77f4-b6bb2d08b5a1.jpeg)
 
 ---
 
-## submit 
+## submit
 
 + submit 時に名前を聞かれる。
 + サブミットした次の日のデータで最終テスト
 + 合格、不合格はメールでお知らせ
- 
+
 ---
 
 ## 感想
@@ -161,11 +172,11 @@
 ---
 
 + Quantopianの哲学
-+ Forum で `Algo Template` `Contest` 
++ Forum で `Algo Template` `Contest`
 + ファンダメンタルアルゴリズム
 + Quantopian Risk Modelの理解
 + 学生さんのみ対象のContest
-+ 
++
 ---
 
 ## おしらせ
@@ -173,8 +184,3 @@
 + [Tokyo Quantopian User Group Vol.06 Factor Model - connpass](https://quantopian-tokyo.connpass.com/event/105587/)
 
 + note https://note.mu/notes/nc229144d5f76/edit
-
-
-
-
-
