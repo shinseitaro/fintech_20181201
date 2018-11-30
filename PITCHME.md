@@ -28,13 +28,17 @@
 
 ---
 
+<div style="text-align: center;">
+![](./pics/factor_scheme.jpg)
+</div>
+
+
+---
+
 ## コンテストのカギ
 
 **predictive ranking scheme** を見つけること
 
-<div style="text-align: center;">
-![](./pics/factor_scheme.jpg)
-</div>
 
 ---
 
