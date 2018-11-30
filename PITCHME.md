@@ -207,8 +207,11 @@
 ## 感想
 
 + Quantopianの哲学
-+ Forum で ```Algo Template```, ```Contest```
-+ ファンダメンタルアルゴリズム
++ アルゴリズムのネタに困ったら・・・
+  + [Algo Template](https://www.quantopian.com/posts/tag/Algo-Template)
+  + [contest](https://www.quantopian.com/posts/tag/contest)
++ ファンダメンタルアルゴリズムがほしいそうです．
+  + [15 Contest Entrants Invited to License their Strategies to Quantopian](https://www.quantopian.com/posts/15-contest-entrants-invited-to-license-their-strategies-to-quantopian)
 + [Quantopian Risk Model](https://www.quantopian.com/papers/risk)の理解必須
 + 学生さんのみ対象のContest．
   + [Calling all Students! New University Contest - Deadline January 31st](https://www.quantopian.com/posts/calling-all-students-new-university-contest-deadline-january-31st)
