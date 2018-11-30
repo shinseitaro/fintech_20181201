@@ -29,7 +29,9 @@
 
 ---
 
+@snap[midpoint]
 ![](https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/8632738/picture_pc_7f1963d4cd0475fbb1d0f339243e852c.jpg)
+@snapend
 
 --- 
 
