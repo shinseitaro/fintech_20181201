@@ -207,7 +207,7 @@
 ## 感想
 
 + Quantopianの哲学
-+ アルゴリズムのネタに困ったら・・・
++ アルゴリズムのネタに困ったらForumで以下のタグ検索
   + [Algo Template](https://www.quantopian.com/posts/tag/Algo-Template)
   + [contest](https://www.quantopian.com/posts/tag/contest)
 + [ファンダメンタルアルゴリズムがほしいそうです．](https://www.quantopian.com/posts/15-contest-entrants-invited-to-license-their-strategies-to-quantopian)
@@ -218,11 +218,11 @@
 
 ## 参照
 
-+ [contest 概要](https://www.quantopian.com/contest)
-+ [contest 概要（翻訳）](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
-+ [Quantopian Risk Model](https://www.quantopian.com/papers/risk)
++ [contest 概要 - Quantopian](https://www.quantopian.com/contest)
++ [contest 概要（翻訳） - Qiita](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
++ [Quantopian Risk Model - Quantopian](https://www.quantopian.com/papers/risk)
 + [Get Started with the Quantopian Contest - YouTube](https://www.youtube.com/watch?v=DsIyoeqkjMU)
-+ [Quantopian Contest に参加してみる｜しんせいたろう｜note](https://note.mu/shinseitaro/n/nc229144d5f76)
++ [Quantopian Contest に参加してみる - note](https://note.mu/shinseitaro/n/nc229144d5f76)
 
 ---
 
