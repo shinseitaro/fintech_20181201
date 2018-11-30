@@ -13,7 +13,7 @@
 
 ---
 
-## Quantopian Contest について
+## Quantopian Contest
 
 + [contest 概要](https://www.quantopian.com/contest)
 + [翻訳しました](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
@@ -22,23 +22,15 @@
 
 ## 応募条件
 
-### **cross-sectional, long-short equity strategies**
+**cross-sectional, long-short equity strategies**
 
-
-ユニバースに入っている銘柄をランキングし、
-
-一番高いランキングの銘柄群を買い、
-
-一番低いランキングの銘柄群を売る。
-
-（ショートロングの方向に気をつける）
-
+@size[0.5em](ユニバースに入っている銘柄をランキングし、一番高いランキングの銘柄群を買い、一番低いランキングの銘柄群を売る。)
 
 ---
 
 ## コンテストのカギ
 
-### **predictive ranking scheme** を見つけること
+@size[1.5em](**predictive ranking scheme** を見つけること)
 
 <div style="text-align: center;">
 ![](./pics/factor_scheme.jpg)
@@ -105,7 +97,6 @@
 ## @fa[smile-o fa-5x]
 @snapend
 
-
 ---
 
 ## Algorithm
@@ -161,7 +152,7 @@
 
 ---
 
-## オールグリーン
+## オールグリーン!
 
 <div style="text-align: center;">
 ![2018-11-29_14.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/fc54f46e-655f-bf74-77f4-b6bb2d08b5a1.jpeg)
@@ -174,13 +165,12 @@
 @snap[west span-40]
 @ul[](false)
 - submit 時に名前を聞かれる。
-- サブミットした次の日のデータで最終テスト
+- サブミットした次の日最終テスト
 - 合格、不合格はメールでお知らせ
-- 2018/11/30現在まだメールきてない
 @ulend
 @snapend
 
-@snap[east span-40]
+@snap[east span-60]
 ![](./pics/submit.jpg)
 @snapend
 
