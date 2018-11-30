@@ -84,7 +84,10 @@
 
 ---
 
+@snap[midpoint]
 ## @fa[smile-o fa-5x]
+@snapend
+
 
 ---
 
