@@ -16,10 +16,13 @@
 
 ## 応募条件
 
-**cross-sectional, long-short equity strategies**
+### **cross-sectional, long-short equity strategies**
+
 
 ユニバースに入っている銘柄をランキングし、
+
 一番高いランキングの銘柄群を買い、
+
 一番低いランキングの銘柄群を売る。
 
 （ショートロングの方向に気をつける）
@@ -29,9 +32,7 @@
 
 ## コンテストのカギ
 
-@snap[midpoint]
-**predictive ranking scheme** を見つけること
-@snapend
+### **predictive ranking scheme** を見つけること
 
 ---
 
@@ -57,7 +58,7 @@
 
 ## 今回の目標
 
-**条件のクリア**と**コンテストへの参加**
+### **条件のクリア**と**コンテストへの参加**
 
 （いい成績なんてムリ！）
 
@@ -66,10 +67,14 @@
 ## それなりのalphaを見つける
 
 ロングショートでセクター分散
+
 ↓
+
 平均からの乖離（甘い考えだった）
 
 ---
+
+### イメージ
 
 <div style="text-align: center;">
 ![](https://qiita-image-store.s3.amazonaws.com/0/14019/ce087827-39c8-5ee6-994c-7a98174d23d5.png)
@@ -81,7 +86,7 @@
 
 + Alphalens
 + [オープンソース](https://github.com/quantopian/alphalens)
-+ `performance analysis of predictive (alpha) stock factors`
++ **performance analysis of predictive (alpha) stock factors**
 + Quantopian Research上でファクターを分析
 
 ---
@@ -116,13 +121,20 @@
 </div>
 ---
 
+## どこで落ちた?
+
 <div style="text-align: center;">
 ![Screenshot from 2018-11-28 18-52-44.png](https://qiita-image-store.s3.amazonaws.com/0/14019/a29fe5ca-f916-e7a7-e10b-66928360bf53.png)
 </div>
+
 ---
 
-+ Short Term Reversal が不合格
-+ `The short-term reversal factor captures the difference in returns between stocks with strong recent losses theoretically primed to reverse (recent loser stocks) and stocks with strong recent gains theoretically primed to reverse (recent winner stocks) in a short time period.`
+## Short Term Reversal が不合格
+
+> The short-term reversal factor captures the difference in returns between stocks with strong recent losses theoretically primed to reverse (recent loser stocks) and stocks with strong recent gains theoretically primed to reverse (recent winner stocks) in a short time period.
+
+直近ですごく強かったり弱かったりした銘柄が急に戻って得た
+
 
 ---
 
@@ -138,45 +150,44 @@
 
 ---
 
-@snap[midpoint]
-## 契約締結前交付書面はちゃんと読もう
-@snapend
-
----
-
 ## どうしよう。。。
 
 + 色々悩む（1日半くらい）
 + 時間がない
-+ 移動平均の `window=` を20日から60日に長くしてみたらクリア。
++ 移動平均の `window=` を20日から60日に長くしてみたらなんとなくクリア。
 
 ---
 
 ## オールグリーン
 
-<div style="text-align: center;"></div>
+<div style="text-align: center;">
 ![2018-11-29_14.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/fc54f46e-655f-bf74-77f4-b6bb2d08b5a1.jpeg)
+</div>
 
 ---
 
 ## submit
 
+@snap[west]
 + submit 時に名前を聞かれる。
 + サブミットした次の日のデータで最終テスト
 + 合格、不合格はメールでお知らせ
+@snapend
+
+@snap[east]
++ ![](./pics/submit.jpg)
+@snapend
 
 ---
 
 ## 感想
-
----
 
 + Quantopianの哲学
 + Forum で `Algo Template` `Contest`
 + ファンダメンタルアルゴリズム
 + Quantopian Risk Modelの理解
 + 学生さんのみ対象のContest
-+
+
 ---
 
 ## おしらせ
