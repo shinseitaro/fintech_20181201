@@ -18,21 +18,11 @@
 
 **cross-sectional, long-short equity strategies**
 
-ユニバースに入っている銘柄をランキングし、一番高いランキングの銘柄群を買い、一番低いランキングの銘柄群を売る。
+ユニバースに入っている銘柄をランキングし、
+一番高いランキングの銘柄群を買い、
+一番低いランキングの銘柄群を売る。
 
 （ショートロングの方向に気をつける）
-
----
-
-## 応募条件
-
-@snap[west span-50]
-### **cross-sectional, long-short equity strategies**
-@snapend
-
-@snap[east span-50]
-#### ユニバースに入っている銘柄をランキングし、一番高いランキングの銘柄群を買い、一番低いランキングの銘柄群を売る。
-@snapend
 
 
 ---
