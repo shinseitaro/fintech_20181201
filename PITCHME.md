@@ -24,13 +24,13 @@
 
 **cross-sectional, long-short equity strategies**
 
-@size[0.5em](ユニバースに入っている銘柄をランキングし、一番高いランキングの銘柄群を買い、一番低いランキングの銘柄群を売る。)
+ユニバースに入っている銘柄をランキングし、一番高いランキングの銘柄群を買い、一番低いランキングの銘柄群を売る。
 
 ---
 
 ## コンテストのカギ
 
-@size[1.5em](**predictive ranking scheme** を見つけること)
+**predictive ranking scheme** を見つけること
 
 <div style="text-align: center;">
 ![](./pics/factor_scheme.jpg)
@@ -87,6 +87,8 @@
 
 ---
 
+## 分析結果
+
 <div style="text-align: center;">
 ![](./pics/alphalens_plot.jpg)
 </div>
@@ -129,6 +131,7 @@
 
 @size[0.5em](The short-term reversal factor captures the difference in returns between stocks with strong recent losses theoretically primed to reverse ,recent loser stocks, and stocks with strong recent gains theoretically primed to reverse ,recent winner stocks, in a short time period.)
 
+どうも、リバーサルから得るリターンが大きすぎるストラテジーはダメ見たい。
 
 ---
 
@@ -141,6 +144,8 @@
 @snap[midpoint]
 ## やっちゃダメな戦略だった
 @snapend
+
+@size[0.5em](知らなかったじゃ済まされないやつ)
 
 ---
 
