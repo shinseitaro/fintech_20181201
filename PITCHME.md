@@ -106,7 +106,7 @@
 + 条件を満たすようなアルゴリズムを1から書くのはかなり厳しい（関数の使い方とか）
 + テンプレがある@fa[heart]
 + [Example: Long-Short Equity Algorithm](https://www.quantopian.com/lectures/example-long-short-equity-algorithm)
-+ (書いたストラテジーはnoteで公開します。)
++ (書いたストラテジーはnoteで公開しています。)
 
 
 ---
@@ -196,4 +196,4 @@
 
 + [Tokyo Quantopian User Group Vol.06 Factor Model - connpass](https://quantopian-tokyo.connpass.com/event/105587/)
 
-+ note https://note.mu/notes/nc229144d5f76/edit
++ [Quantopian Contest に参加してみる｜しんせいたろう｜note](https://note.mu/shinseitaro/n/nc229144d5f76)
