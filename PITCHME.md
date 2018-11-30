@@ -7,13 +7,14 @@
 
 ---
 
-## Quantopian Contest
+## Quantopian Contest について
+
 + [contest 概要](https://www.quantopian.com/contest)
 + [翻訳しました](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
 
 ---
 
-## 条件
+## 応募条件
 
 **cross-sectional, long-short equity strategies**
 
@@ -35,7 +36,15 @@
 
 ## アルゴリズムの条件
 
-Postive Return / レバレッジは0.8〜1.1倍以内 / 特定の銘柄に偏っていない / low beta to SPY / 全投資資金とポートフォリオ価値の割合規制 / 流動性が十分ある銘柄 / セクター分散 / スタイルファクターに対して低リスク / Optimize APIを使って注文
++ Postive Return 
++ レバレッジは0.8〜1.1倍以内 
++ 特定の銘柄に偏っていない 
++ low beta to SPY 
++ 全投資資金とポートフォリオ価値の割合規制 
++ 流動性が十分ある銘柄 
++ セクター分散 
++ スタイルファクターに対して低リスク 
++ Optimize APIを使って注文
 
 --- 
 
@@ -72,7 +81,7 @@ Postive Return / レバレッジは0.8〜1.1倍以内 / 特定の銘柄に偏っ
 
 ---
 
-## よさげ:hatched_chick:
+## よさげ @fa[smile-o fa-5x]
 
 ---
 
