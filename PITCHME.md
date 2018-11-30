@@ -1,7 +1,9 @@
 
 @snap[midpoint]
-# Quantopian Contest に 応募してみた
+## Quantopian Contest に 応募してみた
 @snapend
+
+---
 
 ## 自己紹介と注意事項
 
