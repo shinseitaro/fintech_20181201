@@ -1,5 +1,9 @@
-## 自己紹介と注意事項
 
+@snap[midpoint]
+# Quantopian Contest に 応募してみた
+@snapend
+
+## 自己紹介と注意事項
 
 + @shinseitaro / 早起きトレーダー
 + 顔写真はNG
@@ -34,10 +38,8 @@
 
 ### **predictive ranking scheme** を見つけること
 
----
-
 <div style="text-align: center;">
-![](https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/8632738/picture_pc_7f1963d4cd0475fbb1d0f339243e852c.jpg)
+![](./pics/factor_scheme.jpg)
 </div>
 
 ---
@@ -77,7 +79,7 @@
 ### イメージ
 
 <div style="text-align: center;">
-![](https://qiita-image-store.s3.amazonaws.com/0/14019/ce087827-39c8-5ee6-994c-7a98174d23d5.png)
+![](/pics/strategy_image.png)
 </div>
 
 ---
@@ -92,7 +94,7 @@
 ---
 
 <div style="text-align: center;">
-![](https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/8710762/picture_pc_e7423b3b99e651914b56848180b4efeb.jpg)
+![](./pics/alphalens_plot.jpg)
 </div>
 
 ---
@@ -117,23 +119,22 @@
 ## backtest
 
 <div style="text-align: center;">
-![2018-11-28_005.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/07f74b8b-34a3-6ddc-ab86-10d2a913617d.jpeg)
+![2018-11-28_005.jpg](./pics/backtest1.jpg)
 </div>
+
 ---
 
 ## どこで落ちた?
 
 <div style="text-align: center;">
-![Screenshot from 2018-11-28 18-52-44.png](https://qiita-image-store.s3.amazonaws.com/0/14019/a29fe5ca-f916-e7a7-e10b-66928360bf53.png)
+![](./pics/backtest2.png)
 </div>
 
 ---
 
-## Short Term Reversal が不合格
+## Short Term Reversal
 
-> The short-term reversal factor captures the difference in returns between stocks with strong recent losses theoretically primed to reverse (recent loser stocks) and stocks with strong recent gains theoretically primed to reverse (recent winner stocks) in a short time period.
-
-直近ですごく強かったり弱かったりした銘柄が急に戻って得た
+@size[0.5em](The short-term reversal factor captures the difference in returns between stocks with strong recent losses theoretically primed to reverse ,recent loser stocks, and stocks with strong recent gains theoretically primed to reverse ,recent winner stocks, in a short time period.)
 
 
 ---
@@ -173,6 +174,7 @@
 - submit 時に名前を聞かれる。
 - サブミットした次の日のデータで最終テスト
 - 合格、不合格はメールでお知らせ
+- 2018/11/30現在まだメールきてない
 @ulend
 @snapend
 
