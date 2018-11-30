@@ -24,11 +24,11 @@
 
 ---
 
-@snap[north-west span-50]
+@snap[west span-50]
 ### **cross-sectional, long-short equity strategies**
 @snapend
 
-@snap[north-east span-50]
+@snap[east span-50]
 #### ユニバースに入っている銘柄をランキングし、一番高いランキングの銘柄群を買い、一番低いランキングの銘柄群を売る。
 @snapend
 
