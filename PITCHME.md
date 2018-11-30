@@ -103,11 +103,7 @@
 
 ## backtest 
 
----
-
-@snap[midpoint]
 ![2018-11-28_005.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/07f74b8b-34a3-6ddc-ab86-10d2a913617d.jpeg)
-@snapend
 
 ---
 
