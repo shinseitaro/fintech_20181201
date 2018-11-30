@@ -207,7 +207,7 @@
 ## 感想
 
 + Quantopianの哲学
-+ Forum で `Algo Template` `Contest`
++ Forum で ```Algo Template```, ```Contest```
 + ファンダメンタルアルゴリズム
 + [Quantopian Risk Model](https://www.quantopian.com/papers/risk)の理解必須
 + 学生さんのみ対象のContest．
