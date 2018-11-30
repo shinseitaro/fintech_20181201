@@ -208,7 +208,7 @@
 
 + Quantopianの哲学
 + アルゴリズムのネタに困ったら・・・
-  + [Algo Template](https://www.quantopian.com/posts/tag/Algo-Template)
+  @size[0.5em](+ [Algo Template](https://www.quantopian.com/posts/tag/Algo-Template))
   + [contest](https://www.quantopian.com/posts/tag/contest)
 + ファンダメンタルアルゴリズムがほしいそうです．
   + [15 Contest Entrants Invited to License their Strategies to Quantopian](https://www.quantopian.com/posts/15-contest-entrants-invited-to-license-their-strategies-to-quantopian)
