@@ -15,8 +15,8 @@
 
 ## Quantopian Contest
 
-+ [contest 概要](https://www.quantopian.com/contest)
-+ [翻訳しました](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
++ [contest 概要（英語）](https://www.quantopian.com/contest)
++ [翻訳をQiitaに書いています](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
 
 ---
 
@@ -180,6 +180,20 @@
 ![](./pics/submit.jpg)
 @snapend
 
+## 不合格通知きた・・・
+
++ 応募：　2018/11/29 10:20
++ 結果通知：	2018/12/01 0:10
++ 正味2日かかる
++ 営業日を一日経てかつオーバーナイトでリスク計測してからの合否
+
+## 不合格内容
+
++ **Contest Entry Stopped**
++ 不合格理由：**Exposure to Momentum Style**　<- NEW!
++ アルゴリズム作成中には落ちなかったRisk Factorで落ちた理由を今後調査．
++ （もし合格していても，コンテスト参加期間中にテストに落ちることもあるのかも？）
+
 ---
 
 ## 感想
@@ -187,8 +201,16 @@
 + Quantopianの哲学
 + Forum で `Algo Template` `Contest`
 + ファンダメンタルアルゴリズム
-+ Quantopian Risk Modelの理解
-+ 学生さんのみ対象のContest
++ [Quantopian Risk Model](https://www.quantopian.com/papers/risk)の理解必須
++ 学生さんのみ対象のContest．
+  + [Calling all Students! New University Contest - Deadline January 31st](https://www.quantopian.com/posts/calling-all-students-new-university-contest-deadline-january-31st)
+
+## 参照
+
++ [contest 概要](https://www.quantopian.com/contest)
++ [contest 概要（翻訳）](https://qiita.com/shinseitaro/items/d53c83ed725873f05274)
++ [Quantopian Risk Model](https://www.quantopian.com/papers/risk)
+
 
 ---
 
