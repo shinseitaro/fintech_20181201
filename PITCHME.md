@@ -94,7 +94,7 @@
 ## Algorithm 
 
 + 条件を満たすようなアルゴリズムを1から書くのはかなり厳しい（関数の使い方とか）
-+ テンプレがある:heart:
++ テンプレがある@fa[heart]
 + [Example: Long-Short Equity Algorithm](https://www.quantopian.com/lectures/example-long-short-equity-algorithm)
 + (書いたストラテジーはnoteで公開します。)
 
@@ -105,7 +105,9 @@
 
 ---
 
+@snap[midpoint]
 ![2018-11-28_005.jpg](https://qiita-image-store.s3.amazonaws.com/0/14019/07f74b8b-34a3-6ddc-ab86-10d2a913617d.jpeg)
+@snapend
 
 ---
 
@@ -118,17 +120,24 @@
  
 ---
 
+@snap[midpoint]
 ![](http://res.cloudinary.com/sagacity/image/upload/c_crop,h_800,w_616,x_0,y_0/c_scale,w_640/v1419879339/iVegJ35_xfjlfu.gif)
+@snapend
 
 ---
 
+@snap[midpoint]
 ## やっちゃダメな戦略だった
+@snapend
 
 ---
 
+@snap[midpoint]
 ## 契約締結前交付書面はちゃんと読もう
+@snapend
 
 ---
+
 
 + 色々悩む（1日半くらい）
 + 時間がない
