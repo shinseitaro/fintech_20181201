@@ -168,14 +168,14 @@
 
 ## submit
 
-@snap[west]
+@snap[west span-40]
 + submit 時に名前を聞かれる。
 + サブミットした次の日のデータで最終テスト
 + 合格、不合格はメールでお知らせ
 @snapend
 
-@snap[east]
-+ ![](./pics/submit.jpg)
+@snap[east span-40]
+![](./pics/submit.jpg)
 @snapend
 
 ---
